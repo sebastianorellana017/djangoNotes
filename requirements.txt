@@ -7,3 +7,6 @@ psycopg2-binary==2.9.5
 sqlparse==0.4.3
 tzdata==2022.7
 whitenoise==6.2.0
+autopep8=1.7.0
+toml=0.10.2
+tzdata=2022.2
